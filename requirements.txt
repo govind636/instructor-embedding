@@ -4,6 +4,5 @@ pyarrow==8.0.0
 jsonlines
 numpy
 requests>=2.26.0
-torch
 tqdm
 rich
